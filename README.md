@@ -1,4 +1,9 @@
 # AutoCar
+
+
+https://user-images.githubusercontent.com/100464098/212258316-8755af69-157d-44fa-99df-bb718503ed20.mp4
+
+
 Dataset for lane detection: https://drive.google.com/file/d/1lUsrA08TRCBmwEcbJu_5pWvTIUhd7pp2/view?usp=sharing
 
 Dataset for traffic sign detection using yolov5: https://drive.google.com/file/d/1r63f_d67E6uM79Gv2Y32IJHui5TSv0L8/view?usp=sharing
